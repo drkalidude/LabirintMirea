@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44b7d6b6-c858-4baf-81d0-0b75a39302e2)# LabirintMirea
+# LabirintMirea
  For Laboratory Mirea
 
 
@@ -11,8 +11,7 @@
 
 # Скриншоты проекта
 <!-- Пример добавления скриншотов. Убедитесь, что пути к изображениям корректны. -->
-![Скриншот 1](screenshots/screenshot1.png)
-![Скриншот 2](screenshots/screenshot2.png)
+![Uploading IMG_66248304764A-1.jpeg…]()
 
 # Инструкция по запуску
 
