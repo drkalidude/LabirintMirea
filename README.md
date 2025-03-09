@@ -13,6 +13,9 @@
 <!-- Пример добавления скриншотов. Убедитесь, что пути к изображениям корректны. -->
 ![ScreenSot6](https://github.com/user-attachments/assets/367e536a-ee95-4227-b4d7-f595c5e06e75)
 
+# Видеоролик проекта
+https://drive.google.com/drive/folders/1NJ4_Ch4jiIWIrhNjCIjtnauduMoN1_5Z
+
 # Инструкция по запуску
 
 ## Требования
